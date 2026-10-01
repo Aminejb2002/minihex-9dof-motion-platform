@@ -2,7 +2,7 @@
 
 A low-cost, 3D-printed 9-DOF motion platform, designed, simulated, built and tested for the Institute of Flight System Dynamics (FSD) at TU Munich as a small-scale prototype of its full-scale eVTOL motion simulator. A 6-DOF Stewart platform driven by rotary servos carries a 3-DOF gimbal that holds a Pixhawk 6C flight controller.
 
-*Bachelor's thesis, "MiniHex: Designing a 9-DOF Motion Platform", TU Munich, Institute of Flight System Dynamics, 2025 (grade 1.3). Supervisor: Alexander Zwenig.*
+*Bachelor's thesis, "MiniHex: Designing a 9-DOF Motion Platform", TU Munich, Institute of Flight System Dynamics, 2025 (grade 1.3).*
 
 <p align="center">
   <img src="media/hw_full_platform.gif" alt="MiniHex lower stage and gimbal driven by a joystick" width="260">
